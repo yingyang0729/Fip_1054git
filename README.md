@@ -13,16 +13,16 @@ Contributing
 Create your feature branch: git checkout -b dev.tvr.fipfiles
 Commit your changes: The developer uses the command git commit -m so many times. 
 Push to the branch: git push origin dev.tvr.fipfiles
-Submit a pull request :D
-
-After the developer change the version so many times. It also uses git remote delete, git fetch && git checkout and so on.
-
+Delete the laptop branch: git branch -D dev.tvr.fipfiels
+update new version branch from remote to laptop: git fetch && git checkout -b dev.tvr.fipfiles
+merge files into laptop: git pull origin -b dev.tvr.fipfiles
+merge the branch to the main branch on the remote.
 
 History
 TODO: The Ai and PSD file already submit for Jarrod's and Justin's course. So, in the repo, it just contains the web file.
 
 Credits
-TODO: 
+TODO: It is the final exam for 1054 course and the professor is Trevor. The repo's contributor is Ying Yang.
 
 License
-TODO: Write license# Fip_1054git
+TODO: Fip_1054git
