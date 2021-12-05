@@ -20,7 +20,7 @@ The contributor is Ying Yang.
 6. merge files into laptop: git pull origin -b dev.tvr.fipfiles
 7. merge the branch to the main branch on the remote.
 
-[The developer assigns the screenshot of the git processing here.]
+[The developer assigns the screenshot of the git processing here.](includes/Capture2.3.PNG)
 
 ## History
 TODO: The Ai and PSD file already submit for Jarrod's and Justin's course. So, in the repo, it just contains the web file.
