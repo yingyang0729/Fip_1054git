@@ -14,15 +14,15 @@ The contributor is Ying Yang.
 
 1. Create your feature branch: git checkout -b dev.tvr.fipfiles
 2. Commit your changes: The developer uses the command git commit -m so many times. 
+### [The developer assigns the screenshot of the git processing step 1-2 here.](includes/Capture2.1.PNG)
+
 3. Push to the branch: git push origin dev.tvr.fipfiles
+### [The developer assigns the screenshot of the git processing step 2-3 here.](PAGE2_index.html)
 4. Delete the laptop branch: git branch -D dev.tvr.fipfiels
 5. update new version branch from remote to laptop: git fetch && git checkout -b dev.tvr.fipfiles
 6. merge files into laptop: git pull origin -b dev.tvr.fipfiles
 7. merge the branch to the main branch on the remote.
-
-[The developer assigns the screenshot of the git processing step 1 here.]
-[The developer assigns the screenshot of the git processing step 2 here.](PAGE2_index.html)
-[The developer assigns the screenshot of the git processing step 3 here.](includes/Capture2.3.PNG)
+### [The developer assigns the screenshot of the git processing step 4-7 here.](includes/Capture2.3.PNG)
 
 ## History
 TODO: The Ai and PSD file already submit for Jarrod's and Justin's course. So, in the repo, it just contains the web file.
