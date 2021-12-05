@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sanchez&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/c9eb596ecf.js" crossorigin="anonymous"></script>
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <title>Debra Jane</title>
+</head>
+
+<h1 class="hidden">Debra Jane</h1>
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    
+<header class="head">
+    <div class="logo two-items">
+        <img src="images/Logo_DebraJane.svg" alt="Debra Jane Logo">
+        <h2  class="name_head_h2 one-item">Debra Jane</h2>
+    </div>
+
+    <div class="one-item">
+        <nav class="nav" aria-label="Main Navigation">
+            <h2 class="hidden">Main Navigation</h2>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">About</a></li>
+                <li><a href="">Shop</a></li>
+                <li><a href="index.html">Service</a></li>
+                <li><a href="index.html">Contact</a></li>
+                <li><a href="index.html"><h3>Sign In</h3></a></li>
+            </ul>
+        </nav>
+    </div>
+    
+</header>
+
+<body class="site">
+    <main id="content" class="main">
+    <section class="contact">
+        <h2 class="hidden">Contact & Thanks</h2>
+        <div class="one-item border-top margin-tb margin-left2">
+            <h3 class="hidden">Contact</h3>
+            <h4>Our Adress: 2140 Secretriat Ave, Oshawa, ON</h4>
+            <h4>Tel: 289-886-2723</h4>
+            <h4>Email: debrajane@gmail.com</h4>
+        </div>
+
+        <div class="one-item border-top margin-tb margin-left2">
+            <h3 class="hidden">Thanks</h3>
+            <p>
+                We are very happy to answer your any questions.<br><br>
+                Please use the contact form below or email us at debrajane@gmail.com.<br><br>
+                We will reply you as quickly as possible, normally 24 hours on weekdays.<br><br>
+                Please note our office is closed on weekends so emails sent on weekends will be replied to on Monday.<br><br>
+            </p>
+        </div>
+    </section>
+    <section class="contact">
+        <div class="border-top margin-tb margin-left3 ">
+            <h2 class="hidden">Contact Us Form</h2>
+            <form action="email.php" method="POST" enctype="text/plain">
+                <input name="fullName" type="text" placeholder="First & Last Name">
+                <input name="contactInfo" type="text" required placeholder="Phone number or Email">
+                <textarea name="msg" placeholder="Enter your questions, comments or concerns here..."></textarea>
+                <input name="submit" type="submit2" value="Send">
+            </form>
+        </div>
+    </section>
+
+    <section class="hero">
+        <h2 class="hidden">Autumn Discount</h2>
+        <div class="hero-img">
+            <img src="images/hero3.jpg" alt="Autumn Discount Ads">
+            <h3 class="right"><span>Click Here</span></h3>
+        </div>
+    </section>
+    </main>
+
+    <footer class="foot padding-bottom">
+        <h2 class="hidden">Footer</h2>
+        <div class="three-items">
+            <div>
+                <div class="foot-topic one-item">
+                    <h3 >Folllow</h3>  
+                </div>
+                <div class="three-items">
+                    <i class="fab fa-facebook margin-left f-left icon"></i>
+                    <i class="fab fa-youtube margin-left f-left icon"></i>
+                    <i class="fab fa-instagram margin-left f-left icon"></i>
+                </div>
+            </div>
+            <nav aria-label="Footer Navigation">
+                <div class="foot-topic one-item">
+                    <h3>Navigator</h3>
+                </div>
+                
+                <div class="two-items">
+                    <div>
+                        <a href="#">Home</a>
+                        <a href="#">About</a>
+                        <a href="#">Shop</a>
+                        
+                    </div>
+                    <div>
+                        <a href="#">Service</a>
+                        <a href="#">Contact</a>
+                        <a href="#">Back to Top</a>
+                    </div>
+                </div>
+            </nav>
+            <div>
+                <div class="one-item">
+                    <div class="foot-topic one-item">
+                        <h3 >Subscribe</h3>
+                    </div>
+                    <div class="origin one-item">
+                        <form action="email.php" method="POST" enctype="text/plain">
+                            <input name="contactInfo" type="text" required placeholder="Phone number or Email">
+                            <input name="submit" type="submit" value="Send">
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="one-item copyright border-top">
+            <p>All prices and services on this website and in our reservation system are based on conditions at the time of publishing and are subject to change. Please call to confirm services, availability and pricing.<br><br> ©2021 Debra Jane Inc. All Rights Reserved. Privacy Policy </p>
+        </div>
+</footer>
+</body>
+</html>
