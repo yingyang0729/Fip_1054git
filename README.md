@@ -21,7 +21,7 @@ The contributor is Ying Yang.
 7. merge the branch to the main branch on the remote.
 
 [The developer assigns the screenshot of the git processing step 1 here.]
-[The developer assigns the screenshot of the git processing step 2 here.]
+[The developer assigns the screenshot of the git processing step 2 here.](PAGE2_index.html)
 [The developer assigns the screenshot of the git processing step 3 here.](includes/Capture2.3.PNG)
 
 ## History
