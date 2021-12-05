@@ -10,7 +10,7 @@ And the developer also uses [Adobe Photoshop and Adobe Illustrator](https://www.
 TODO: The repo is for final exam 1054.
 
 ## Contributing
-The contributor is Ying Yang.
+The contributor is Ying Yang. Making the repos is for 7 steps as follows.
 
 1. Create your feature branch: git checkout -b dev.tvr.fipfiles
 2. Commit your changes: The developer uses the command git commit -m so many times. 
