@@ -1,9 +1,10 @@
 Project 1054 FIP
+
 TODO: The repo is for 1054 FIP that is developed by Ying Yang. In the repo, it contains images, css file and html files for the course.
 
 Installation
-TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [W3Schools].(https://www.w3schools.com/) 
-And the developer also uses [Adobe Photoshop and Adobe Illustrator].(https://www.adobe.com)
+TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [W3Schools](https://www.w3schools.com/). 
+And the developer also uses [Adobe Photoshop and Adobe Illustrator](https://www.adobe.com).
 
 Usage
 TODO: The repo is for final exam 1054.
